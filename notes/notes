@@ -1,0 +1,10 @@
+Add Fused Multiple-Add (FMA) unit -> performance enhancement
+
+Processor charecteristics
+=========================
+
+  In terms of processing data: 
+    1. The width of the path between processor and memory
+    2. The way memory is addressed
+    3. The number of bits in a register
+    4. The size of a floating point number.
